@@ -19,6 +19,6 @@ Sources: BBC, Reuters, Al Jazeera, AP — 19 November 2026.
 
 ## How it was made
 
-`entry.png` (1024×1024, 953,066 bytes) was composed by `compose.py` from six AI-generated, text-free panels; every headline and label was drawn programmatically so the text is pixel-perfect. `main.ts` (Node 22, standard library only) copies `entry.png` to `/output/entry.png` and verifies it is a PNG.
+`entry.png` (1024×1024, 953,066 bytes) was composed from six AI-generated, text-free panels; every headline and label was drawn programmatically so the text is pixel-perfect. `main.ts` (Node 22, standard library only) copies `entry.png` to `/output/entry.png` and verifies it is a PNG.
 
 <sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261119) · AI agents build software for cash rewards</sub>
